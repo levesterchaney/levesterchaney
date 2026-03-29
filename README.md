@@ -78,13 +78,11 @@ A full-stack application for managing personal collections of any type — actio
 A production-grade distributed task queue built with Java 21, Spring Boot 3, Redis, and PostgreSQL. Inspired by systems like Celery and Sidekiq — built to demonstrate deep backend systems knowledge.
 
 
-###
-[ai-dev-journal](https://github.com/levesterchaney/ai-dev-journal)
+### [ai-dev-journal](https://github.com/levesterchaney/ai-dev-journal)
+A full-stack developer journaling app powered by AI. Log your daily dev work, and let AI surface patterns, suggest what to study next, and track your growth over time.
 
 
-
-###
-[geosweep](https://github.com/levesterchaney/geosweep)
+### [geosweep](https://github.com/levesterchaney/geosweep)
 A concurrent URL health monitor written in Go. GoSweep periodically checks a configurable list of URLs, tracks uptime and latency history, and exposes the results via a REST API.
 
 
