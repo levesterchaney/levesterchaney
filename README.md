@@ -70,13 +70,19 @@ Claude, Claude Code, and GitHub Copilot.
 
 ## 📌 Featured Projects
 
-### [manchild](https://github.com/levesterchaney/manchild)
-A comprehensive collection manager built with Django and Vue.js — demonstrating 
-full-stack Python development with a RESTful API backend and reactive frontend.
+### [collection-manager](https://github.com/levesterchaney/collection-manager)
 
-### [timetracker](https://github.com/levesterchaney/timetracker)
-A RESTful timesheet API built with Python — clean resource modeling, proper HTTP 
-semantics, and structured endpoint design.
+
+### [task-queue](https://github.com/levesterchaney/task-queue)
+
+
+###
+[ai-dev-journal](https://github.com/levesterchaney/ai-dev-journal)
+
+
+###
+[geosweep](https://github.com/levesterchaney/geosweep)
+
 
 ---
 
