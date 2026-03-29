@@ -71,17 +71,21 @@ Claude, Claude Code, and GitHub Copilot.
 ## 📌 Featured Projects
 
 ### [collection-manager](https://github.com/levesterchaney/collection-manager)
+A full-stack application for managing personal collections of any type — action figures, trading cards, comics, vinyl, and more.
 
 
 ### [task-queue](https://github.com/levesterchaney/task-queue)
+A production-grade distributed task queue built with Java 21, Spring Boot 3, Redis, and PostgreSQL. Inspired by systems like Celery and Sidekiq — built to demonstrate deep backend systems knowledge.
 
 
 ###
 [ai-dev-journal](https://github.com/levesterchaney/ai-dev-journal)
 
 
+
 ###
 [geosweep](https://github.com/levesterchaney/geosweep)
+A concurrent URL health monitor written in Go. GoSweep periodically checks a configurable list of URLs, tracks uptime and latency history, and exposes the results via a REST API.
 
 
 ---
