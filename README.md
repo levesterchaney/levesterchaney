@@ -79,11 +79,12 @@ A personal project designed to simulate a modern payroll processing platform for
 
 
 ### [Theme Park Planner](https://github.com/levesterchaney/themeparkplanner)
-A web application that lets users generate personalized itineraries for theme park visits.
+A system that can intelligently generate personalized, efficient itineraries for theme parks across the United States, removing the logistical burden from users.
 
 ---
 
 ## 📫 Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/levesterchaney)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/user/CodingMagus/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:levester.chaney@gmail.com)
