@@ -71,11 +71,15 @@ Claude, Claude Code, and GitHub Copilot.
 ## 📌 Featured Projects
 
 ### [Collection Manager](https://github.com/levesterchaney/collectionmanager)
-A full-stack application for managing personal collections of any type — action figures, trading cards, comics, vinyl, and more.
+A web application designed to help individuals create, organize, and manage personal collections with enhanced visibility into value over time.
+
+
+### [Payroll Pilot](https://github.com/levesterchaney/payrollpilot)
+A personal project designed to simulate a modern payroll processing platform for small businesses.
 
 
 ### [Theme Park Planner](https://github.com/levesterchaney/themeparkplanner)
-A production-grade distributed task queue built with Java 21, Spring Boot 3, Redis, and PostgreSQL. Inspired by systems like Celery and Sidekiq — built to demonstrate deep backend systems knowledge.
+A web application that lets users generate personalized itineraries for theme park visits.
 
 ---
 
